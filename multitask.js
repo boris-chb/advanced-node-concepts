@@ -1,1 +1,3 @@
-console.log('bro');
+export default function hi() {
+  return 1;
+}
